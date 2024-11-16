@@ -16,19 +16,19 @@
 ## 🛠️ Languages and Tools
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">&nbsp<img src="https://techstack-generator.vercel.app/js-icon.svg" width="44"/>&nbsp<a/>
-    <a href="https://www.typescriptlang.org/docs/handbook/react.html" src="https://techstack-generator.vercel.app/ts-icon.svg"target="_blank">&nbsp<img width="44px" src=""/>&nbsp</a> 
-      <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://techstack-generator.vercel.app/react-icon.svg" />&nbsp</a> 
-    <a href="https://redux.js.org/" target="_blank">&nbsp<img width="45px" src="https://techstack-generator.vercel.app/redux-icon.svg"/>&nbsp</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">&nbsp<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>&nbsp<a/>
+    <a href="https://www.typescriptlang.org/docs/handbook/react.html" src="https://techstack-generator.vercel.app/ts-icon.svg" target="_blank">&nbsp<img width="65px" src=""/>&nbsp</a> 
+      <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="51px" src="https://techstack-generator.vercel.app/react-icon.svg" />&nbsp</a> 
+    <a href="https://redux.js.org/" target="_blank">&nbsp<img width="50px" src="https://techstack-generator.vercel.app/redux-icon.svg"/>&nbsp</a>
     <a href="https://vitejs.dev/" target="_blank">&nbsp<img width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
     <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
     <a href="https://sass-scss.ru/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
     <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://supabase.com/" target="_blank">&nbsp<img width="51px" src="https://skillicons.dev/icons?i=supabase"nbsp</a> 
-<!--     <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a>  -->
+    <a href="https://supabase.com/" target="_blank">&nbsp<img width="50px" src="https://skillicons.dev/icons?i=supabase"nbsp</a> 
 </p>
+<!--     <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a>  -->
 
   
 <!--     <td align="center" width="80">
