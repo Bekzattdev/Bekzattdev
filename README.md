@@ -7,23 +7,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekzattdev&theme=gotham&layout=compact" width="500px"/> 
 </p>
-T
+
 <p align="center">
     <a href="https://github.com/Bekzattdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Bekzattdev&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="400px" alt="@Bekzattdev's github-readme-stats"/></a>
     <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bekzattdev&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="400px" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
-
-<p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Bekzattdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bekzattdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-<div align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Bekzattdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bekzattdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bekzattdev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
-</div>
 
 ###
 
@@ -297,23 +285,7 @@ T
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Bekzattdev}/count.svg" alt="Bekzattdev :: Visitor's Count" /></p>
-
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=Bekzattdev&data=followers,repositories,stars,commits' />
-</p>
  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekzattdev&langs_count=10&theme=merko&layout=compact" width="400px" height="216px" alt="Bekzattdev :: Top Langs" />
-<a href="https://github.com/Bekzattdev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Bekzattdev&theme=gitdimmed&no-frame=true&column=3&row=2"  width="400px" alt="@Bekzattdev's trophy stats"/></a>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Bekzattdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Bekzattdev&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="500px" alt="@Bekzattdev's github-readme-stats"/></a>
-<a href="https://github.com/Bekzattdev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bekzattdev&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="500px" alt="@Bekzattdev's github-readme-streak-stats"/></a>
-
-</p>
-
 <!-- <h2>Contact :postbox:</h2>
 <div>
   <a href = "mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -335,10 +307,9 @@ T
 
 ## 🔖 My contacts
 
-<div class="contacts">
+<div alight="center" class="contacts">
   <a href="https://wa.me/996222656423"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
   <a href="https://t.me/Bekzat_0101"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
   <a href="https://www.instagram.com/Bekzattdev"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
 <a href="https://youtube.com/@ExqBar?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
-
 </div>
