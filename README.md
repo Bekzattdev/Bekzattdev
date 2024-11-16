@@ -17,7 +17,7 @@
 <p align="center">
     <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">&nbsp<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/>&nbsp<a/>
-    <a href="https://www.typescriptlang.org/docs/handbook/react.html" src="https://techstack-generator.vercel.app/ts-icon.svg" target="_blank">&nbsp<img width="55px"/>&nbsp</a> 
+    <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img  src="https://techstack-generator.vercel.app/ts-icon.svg" width="55px"/>&nbsp</a> 
       <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="51px" src="https://techstack-generator.vercel.app/react-icon.svg" />&nbsp</a> 
     <a href="https://redux.js.org/" target="_blank">&nbsp<img width="50px" src="https://techstack-generator.vercel.app/redux-icon.svg"/>&nbsp</a>
     <a href="https://vitejs.dev/" target="_blank">&nbsp<img width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
@@ -262,8 +262,6 @@
       <img src="https://github.com/hi-tech-AI/hi-tech-AI/raw/main/llm-logo.jfif" width="43" height="43" alt="Supabase" />
       <br>LLM
     </td> -->
-  
-##<h2>Github stats: </h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Bekzattdev}/count.svg" alt="Bekzattdev :: Visitor's Count" /></p>
