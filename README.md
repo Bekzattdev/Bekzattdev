@@ -7,39 +7,30 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekzattdev&theme=gotham&layout=compact" width="500px"/> 
 </p>
-
 <p align="center">
     <a href="https://github.com/Bekzattdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Bekzattdev&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="400px" alt="@Bekzattdev's github-readme-stats"/></a>
     <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bekzattdev&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="400px" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
-###
 
-## 🛠️ Skills
+## 🛠️ Languages and Tools
+<p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">&nbsp<img src="https://techstack-generator.vercel.app/js-icon.svg" width="44"/>&nbsp<a/>
+    <a href="https://www.typescriptlang.org/docs/handbook/react.html" src="https://techstack-generator.vercel.app/ts-icon.svg"target="_blank">&nbsp<img width="44px" src=""/>&nbsp</a> 
+      <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://techstack-generator.vercel.app/react-icon.svg" />&nbsp</a> 
+    <a href="https://redux.js.org/" target="_blank">&nbsp<img width="45px" src="https://techstack-generator.vercel.app/redux-icon.svg"/>&nbsp</a>
+    <a href="https://vitejs.dev/" target="_blank">&nbsp<img width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
+    <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
+    <a href="https://sass-scss.ru/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
+    <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://supabase.com/" target="_blank">&nbsp<img width="51px" src="https://skillicons.dev/icons?i=supabase"nbsp</a> 
+<!--     <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a>  -->
+</p>
 
-<p align="center">
-<table align="center">
-  <tr>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=html" width="43" height="43" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=css" width="43" height="43" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=materialui" width="43" height="43" alt="MaterialUI" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="Tailwind" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="55" />
-      <br>Sass
-    </td>
+  
 <!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" />
       <br>Bootstrap
@@ -53,18 +44,17 @@
       <br>Three.js
     </td> -->
   
-  </tr>
 
-  <tr>
-    <td align="center" width="80">
+
+<!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
       <br>JavaScript
-    </td>
+    </td> -->
 <!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=jquery" width="43" height="43" alt="jQuery" />
       <br>jQuery
     </td> -->
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
       <br>TypeScript
     </td>
@@ -79,7 +69,7 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
       <br>Next.js
-    </td>
+    </td> -->
 <!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="45" height="55" />
       <br>Gatsby
@@ -96,7 +86,6 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Node.js" />
       <br>Node.js
     </td> -->
-  </tr>
 <!--   <tr> -->
 <!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="Express" />
@@ -131,7 +120,6 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="55" />
       <br>Python
     </td> -->
-  </tr>
 <!--   <tr> -->
 <!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="55" />
@@ -204,7 +192,6 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
       <br>SQLite
     </td> -->
-  </tr>
 <!--   <tr> -->
 <!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=flutter" width="43" height="43" alt="Flutter" />
@@ -243,12 +230,11 @@
       <br>VoIP
     </td> -->
 <!--   </tr> -->
-  <tr>
 <!--     <td align="center" width="80">
       <img src="https://img.shields.io/badge/FreeSWITCH-blue" width="43" height="43" alt="FreeSWITCH" />
       <br>FreeSWITCH
     </td> -->
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://img.shields.io/badge/Video%20Streaming-green" width="43" height="43" alt="Video Streaming" />
       <br>Video Streaming
     </td>
@@ -267,7 +253,7 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=firebase" width="43" height="43" alt="Firebase" />
       <br>Firebase
-    </td>
+    </td> -->
 <!--     <td align="center" width="80">
       <img src="https://github.com/hi-tech-AI/hi-tech-AI/raw/main/nlp-logo.jpg" width="43" height="43" alt="Supabase" />
       <br>NLP
@@ -277,9 +263,7 @@
       <br>LLM
     </td> -->
     <td colspan="2"></td> <!-- Empty space to maintain row structure -->
-  </tr>
-</table>
-</p>
+
 
 ##<h2>Github stats: </h2>
 
