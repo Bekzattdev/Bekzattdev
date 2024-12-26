@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800px" height="125px" src="https://c.tenor.com/IdyfGO5EewIAAAAd/tenor.gif"/>
+  <img width="800px" height="205px" src="https://c.tenor.com/IdyfGO5EewIAAAAd/tenor.gif"/>
 </div>
 
 ## 🙋‍♂️ About Me
