@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800px" height="125px" src="https://tenor.com/ru/view/hi-hello-earth-space-nature-gif-17377227"/>
+  <img width="800px" height="125px" src="https://c.tenor.com/IdyfGO5EewIAAAAd/tenor.gif"/>
 </div>
 
 ## 🙋‍♂️ About Me
