@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="800px" height="125px" src="https://tenor.com/ru/view/hi-hello-earth-space-nature-gif-17377227"/>
+</div>
+
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/Bekzattdev">
