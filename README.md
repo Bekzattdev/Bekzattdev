@@ -1,11 +1,10 @@
-<div align="center">
-  <img width="800px" height="205px" src="https://c.tenor.com/IdyfGO5EewIAAAAd/tenor.gif"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
 </div>
-
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/Bekzattdev">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Bekzat;and+I+am+Frontend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Bekzat;I+am+Frontend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
 </a>
 </a>    
 <p align="center">
