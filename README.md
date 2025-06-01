@@ -40,8 +40,9 @@
 ## 🔖 My contacts
 
 <div alight="center" class="contacts">
+  <a href="https://www.linkedin.com/in/bekzat-cholponov-25b238338"><img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2"</a>
   <a href="https://wa.me/996222656423"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
   <a href="https://t.me/Bekzat_0101"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
   <a href="https://www.instagram.com/Bekzattdev"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
-<a href="https://youtube.com/@ExqBar?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
+  <a href="https://youtube.com/@ExqBar?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
 </div>
