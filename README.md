@@ -30,8 +30,8 @@
     <a href="https://grafana.com/" target="_blank">&nbsp<img width="50px" src="https://skillicons.dev/icons?i=grafana"nbsp</a> 
 </p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Bekzattdev}/count.svg" alt="Bekzattdev :: Visitor's Count" /></p>
+<h4 align="center">Visitor's count :eyes: element</h4>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{Bekzattdev}/count.svg" alt="Bekzattdev :: Visitor's Count" /></p> -->
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
